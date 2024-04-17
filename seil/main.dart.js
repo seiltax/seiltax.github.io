@@ -83051,7 +83051,7 @@ ajw(a){var s=0,r=A.P(t.N),q,p=this,o,n,m,l,k,j
 var $async$z6=A.Q(function(b,c){if(b===1)return A.M(c,r)
 while(true)switch(s){case 0:l=t.N
 k=t.z
-j=A.aK(["Content-Type","application/json"],l,k)
+j=A.aK(["Content-Type","application/json","Access-Control-Allow-Origin","*"],l,k)
 j.nI(j,new A.aiZ())
 o=p.a
 n=A.a6h("application/json",B.cp,j,"POST")
@@ -83074,7 +83074,7 @@ ajx(a){var s=0,r=A.P(t.N),q,p=this,o,n,m,l,k,j
 var $async$z8=A.Q(function(b,c){if(b===1)return A.M(c,r)
 while(true)switch(s){case 0:l=t.N
 k=t.z
-j=A.aK(["Content-Type","application/json","sid",a],l,k)
+j=A.aK(["Content-Type","application/json","Access-Control-Allow-Origin","*","sid",a],l,k)
 j.nI(j,new A.aj_())
 o=p.a
 n=A.a6h("application/json",B.cp,j,"GET")
@@ -83097,7 +83097,7 @@ afb(a){var s=0,r=A.P(t.N),q,p=this,o,n,m,l,k,j
 var $async$xH=A.Q(function(b,c){if(b===1)return A.M(c,r)
 while(true)switch(s){case 0:l=t.N
 k=t.z
-j=A.aK(["Content-Type","application/json","sid",a],l,k)
+j=A.aK(["Content-Type","application/json","Access-Control-Allow-Origin","*","sid",a],l,k)
 j.nI(j,new A.aiX())
 o=p.a
 n=A.a6h("application/json",B.cp,j,"GET")
@@ -83119,7 +83119,7 @@ iU(a){var s=0,r=A.P(t.N),q,p=this,o,n,m,l,k,j
 var $async$iU=A.Q(function(b,c){if(b===1)return A.M(c,r)
 while(true)switch(s){case 0:l=t.N
 k=t.z
-j=A.aK(["Content-Type","application/json"],l,k)
+j=A.aK(["Content-Type","application/json","Access-Control-Allow-Origin","*"],l,k)
 j.nI(j,new A.aiY())
 o=p.a
 n=A.a6h("application/json",B.cp,j,"GET")
