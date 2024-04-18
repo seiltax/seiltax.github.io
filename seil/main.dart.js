@@ -26594,7 +26594,7 @@ A.al7.prototype={
 $1(a){var s=A.eC().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/e76c956498841e1ab458577d3892003e553e4f3c/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a5c24f538d05aaf66f7972fb23959d8cafb9f95a/":s)+a},
 $S:88}
 A.all.prototype={
 $1(a){this.a.remove()
@@ -83540,6 +83540,7 @@ a2.n(0,"name",n.b)
 a2.n(0,"account",n.ay.a.a)
 g=A.z(a0,a1)
 g.n(0,"name",n.r.a.a)
+g.n(0,"application_path","\ud14c\uc2a4\ud2b8\uc911")
 a1=n.x
 f=a1.a.a
 e=B.c.P(f,0,2)
