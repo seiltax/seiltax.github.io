@@ -26688,7 +26688,7 @@ A.alq.prototype={
 $1(a){var s=A.eD().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/e76c956498841e1ab458577d3892003e553e4f3c/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a5c24f538d05aaf66f7972fb23959d8cafb9f95a/":s)+a},
 $S:80}
 A.alE.prototype={
 $1(a){this.a.remove()
@@ -83611,7 +83611,7 @@ r===$&&A.a()
 r=a===r.fr?"_active":""
 return A.eg(A.b([B.Ei,A.d3(A.r7("assets/process/progress3_"+a+r+".png",s,s,s),50,50),A.cU(b,s,s,s,s,s,s,s,B.Qt,s,s,s)],t.p),B.Q,B.a3)}}
 A.ait.prototype={
-$0(){A.an0("http://pf.kakao.com/_GCiexb")},
+$0(){A.an0("http://pf.kakao.com/_GCiexb/chat")},
 $S:0}
 A.p_.prototype={
 ae(){return new A.So(A.r7("assets/home/logo.png",null,null,null),B.k)}}
